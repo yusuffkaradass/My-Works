@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background: rgb(83, 178, 255);
+    
+}
+.social-media{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+.social-media div{
+    display: inline;
+}
+.social-media div a{
+    display: inline-flex;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(0, 0, 139);
+    font-size: 40px;
+    color: white;
+    margin: 0 5px;
+    border-radius: 50px;
+   justify-content:center ;
+   align-items: center;
+}
+.social-media .facebook a:hover{
+    background-color: blue;
+}
+.social-media .twiteer a:hover{
+    background-color: blue;
+}
+.social-media .google a:hover{
+    background-color: blue;
+}
+.social-media .instagram a:hover{
+    background-color: blue;
+}
+.social-media .youtube a:hover{
+    background-color: blue;
+}
+.social-media a i{
+    transition: 0.5s all;
+}
+.social-media a:hover > i{
+    transform:scale(1.6) rotate(360deg);
+}
