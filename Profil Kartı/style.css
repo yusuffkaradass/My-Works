@@ -1,0 +1,117 @@
+ *{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+ }
+ body{
+    height: 100vh;
+    background-image: url(img/back.jpeg ); 
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .profile-card{
+    width: 400px; 
+    text-align: center;
+    border-radius: 8px;
+ }
+ .card-header{
+    background:#AEDEFC;
+    padding: 60px 40px ;
+ }
+ .picture img{
+    display: block;
+    width: 100px;
+    height:auto;
+    border-radius: 50%;   
+ }
+.picture{
+    display: inline-block;
+    padding: 8px;
+    background:linear-gradient(130deg, #74b9ff,#e28341, #e94c4c);
+    margin: auto;
+    border-radius: 50%;
+    animation: animation 2s linear infinite;
+    background-size: 200% 200%;
+}
+@keyframes animation{
+    25%{
+        background-position: left bottom;
+    }
+    50%{
+        background-position: right bottom;
+    }
+    75%{
+        background-position: right top;
+    }
+    100%{
+        background-position: left top;
+    } 
+}
+/*INFORMATIONS*/
+.name{
+    color: white;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 10px ;
+}
+.desc{
+    font-size: 20px;
+    color:#D83F31;
+    
+}
+.sm{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.sm a{
+    color: white;
+    width: 56px;
+    font-size: 22px;
+    transition: .3s linear;
+}
+
+.sm a:hover{
+    color: red;
+
+}
+/*END*/
+.contact-btn{
+    font-size: 18px;
+    display: inline-block;
+    padding: 12px 50px;
+    color: orange;
+    border: 2px solid white;
+    border-radius: 40%;
+    box-shadow: 1px 1px white;
+    margin-top: 16px;
+    transition: .3s linear;
+}
+.contact-btn:hover{
+    background: orange;
+    color: white;
+}
+.card-footer{
+    background-color: white;
+    padding: 60px 10px;
+}
+.numbers{
+    display: flex;
+    align-items: center;
+}
+.item{
+    flex: 1;
+    font-size: 14px;
+    color: #0174BE;
+
+}
+.item span {
+    display: block;
+    color:#0174BE;
+    font-size: 30px
+}
