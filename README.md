@@ -9,5 +9,7 @@ Html-Css çalışmalarımı sakladığım repo
 
 https://github.com/yusuffkaradass/My-Works/assets/145595125/56d6f4a7-0cde-4351-b172-51ed35efa2c0
 
+https://github.com/yusuffkaradass/My-Works/blob/main/Profil%20Kart%C4%B1/img/profilecard.mov
+
 
 
