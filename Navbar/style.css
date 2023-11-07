@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(img/resim.jpg);
+    height: 100vh;
+    background-size: 100%, 100%;
+    background-repeat: no-repeat;
+ } 
+   
+
+.menu-bar{
+    background:#D8CBBB;
+    text-align: center;
+    
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+.menu-bar ul li{
+    width: 170px;
+    margin: 15px;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    color: white;
+}
+.active,.menu-bar ul li:hover {
+    background: #943939;
+    border-radius: 10px;
+    
+   
+}
+.menu-bar .as{
+    margin-right:8px;
+
+}
+.sub-menu-1{
+    display: none;
+  
+}
+
+
+
+.menu-bar ul li:hover .sub-menu-1{
+    display: block;
+    position: absolute;
+    background: #D8CBBB;
+    color: white;
+    margin-top: 1px;
+    margin-left: -15px;
+    font-size: 15px;
+
+    
+}
+.menu-bar ul li:hover .sub-menu-1 ul{
+    display: block
+    
+    
+}
+.menu-bar ul li:hover .sub-menu-1 ul li{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted white;
+    text-align: left;
+    border-radius: 0;
+    cursor: pointer;
+   
+}
+.sub-menu-2{
+    display: none;
+
+}
+ .hover-me:hover .sub-menu-2{
+    position: absolute;
+    display: block;
+    margin-top: -40px;
+    margin-left: 140px;
+    background:  #D8CBBB;
+ }
+.ak{
+    font-size: 14px;
+    float: right;
+}
