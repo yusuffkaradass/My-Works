@@ -1,7 +1,5 @@
 # My-Works
 Html-Css çalışmalarımı sakladığım repo
-![image](https://github.com/yusuffkaradass/My-Works/assets/145595125/43cc1d38-c17e-4500-b9e3-5eb94b3388cc)
-
 
 ![image](https://github.com/yusuffkaradass/My-Works/assets/145595125/e59a7f91-315f-41e1-b958-a29fc61dc0f4)
 
@@ -15,6 +13,8 @@ https://github.com/yusuffkaradass/My-Works/assets/145595125/eabada13-78dc-4cc0-8
 
 
 https://github.com/yusuffkaradass/My-Works/assets/145595125/cc26dfc2-41bc-4cad-ae30-40fb788763ee
+
+https://github.com/yusuffkaradass/My-Works/blob/main/Card%20Design/img/CardDesign.mov
 
 
 
