@@ -15,7 +15,7 @@ https://github.com/yusuffkaradass/My-Works/assets/145595125/eabada13-78dc-4cc0-8
 https://github.com/yusuffkaradass/My-Works/assets/145595125/cc26dfc2-41bc-4cad-ae30-40fb788763ee
 
 
-https://github.com/yusuffkaradass/My-Works/assets/145595125/504a9c86-8476-4a3d-b5c8-f2742de9f4f3
+
 
 
 
