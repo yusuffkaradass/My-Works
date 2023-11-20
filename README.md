@@ -14,7 +14,7 @@ https://github.com/yusuffkaradass/My-Works/assets/145595125/eabada13-78dc-4cc0-8
 
 https://github.com/yusuffkaradass/My-Works/assets/145595125/cc26dfc2-41bc-4cad-ae30-40fb788763ee
 
-https://github.com/yusuffkaradass/My-Works/blob/main/Card%20Design/img/CardDesign.mov
+https://github.com/yusuffkaradass/My-Works/assets/Card%20Design/img/CardDesign.mov
 
 
 
