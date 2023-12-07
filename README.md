@@ -7,6 +7,8 @@ Html-Css çalışmalarımı sakladığım repo
 
 ![image](https://github.com/yusuffkaradass/My-Works/assets/145595125/d5874152-c406-430a-a95e-df4fae758e2a)
 
+![image](https://github.com/yusuffkaradass/My-Works/assets/145595125/077207e6-eb45-41e3-9d67-d51352234ad5)
+
 
 https://github.com/yusuffkaradass/My-Works/assets/145595125/56d6f4a7-0cde-4351-b172-51ed35efa2c0
 
